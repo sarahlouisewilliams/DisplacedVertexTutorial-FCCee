@@ -34,8 +34,8 @@ Default values:
 
 To run this tutorial requires the following repositories to be checked out in your area:
 
-git clone https://github.com/key4hep/CLDConfig.git
-git clone https://github.com/key4hep/k4Reco.git
+    git clone https://github.com/key4hep/CLDConfig.git
+    git clone https://github.com/key4hep/k4Reco.git
 
 If you have already sourced the Key4hep environment you can simply do:
 
